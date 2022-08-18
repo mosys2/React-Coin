@@ -1,0 +1,20 @@
+.ul {
+    list-style: none;
+    display: inline;
+}
+
+.ul li {
+    display: inline;
+    margin-left: 10px;
+}
+
+.menu_item {
+    border: 1px solid #4e4e4e;
+    padding: 3px;
+    text-decoration: none;
+    color: #4e4e4e;
+    font-weight: 600;
+    border-radius: 15px;
+
+
+}

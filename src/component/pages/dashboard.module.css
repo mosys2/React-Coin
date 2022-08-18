@@ -1,0 +1,16 @@
+.list {
+    list-style: none;
+}
+
+.search {
+    margin: 10px;
+    border: 1px solid #f6f6f6;
+    border-radius: 10px;
+    padding: 8px;
+
+}
+
+.search:focus {
+    border: 1px solid #b3b3b3 !important;
+    outline: none;
+}
